@@ -1,0 +1,8 @@
+.container{width: 500px; margin: auto; border:1px solid #eee; height: 155px;}
+	.container input[type=button]{background: green none repeat scroll 0 0;
+    border: 0 none;
+    color: white;
+    font-weight: bold;
+    padding: 3px;
+    width: 154px;}
+    .container table {margin: auto; margin-top: 36px;}
